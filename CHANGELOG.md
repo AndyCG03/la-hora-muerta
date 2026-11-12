@@ -2,6 +2,19 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Las versiones siguen [Versionado Semántico](https://semver.org/lang/es/).
 
+## [1.0.2] — 2026-11-12
+
+### Añadido
+- Botón **✕** para cerrar con el dedo el mapa, el inventario, la caja fuerte, el candado, el altar, la pausa y las notas.
+
+### Cambiado
+- En el móvil, el capítulo y el objetivo se muestran arriba en el centro, sin tapar el botón de pausa.
+- En el móvil, las indicaciones de teclas («F para encenderla», «tecla M», «ESPACIO»…) muestran el botón táctil correspondiente (**LUZ**, **MAPA**, **AIRE**…).
+- En el móvil se ocultan los avisos «[M] cerrar» y «[Tab] cerrar».
+
+### Corregido
+- El mapa, el inventario y el teclado de la caja fuerte no se podían cerrar en el móvil.
+
 ## [1.0.1] — 2026-11-12
 
 ### Añadido
@@ -31,4 +44,5 @@ Primera versión, de prueba privada (no publicada en Releases; la 1.0.1 la susti
 - Controles para teclado y ratón, y para pantalla táctil.
 - Versiones para Android (APK firmado) y Windows.
 
+[1.0.2]: https://github.com/AndyCG03/la-hora-muerta/releases/tag/v1.0.2
 [1.0.1]: https://github.com/AndyCG03/la-hora-muerta/releases/tag/v1.0.1
