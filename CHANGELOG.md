@@ -2,6 +2,13 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Las versiones siguen [Versionado Semántico](https://semver.org/lang/es/).
 
+## [1.0.4] — 2026-11-12
+
+### Corregido
+- **El guardado no funcionaba** (ni en el móvil ni en el ordenador) y *Continuar* no aparecía en el menú. Ahora la partida se guarda en las tres plantas y también al salir de la app o pasarla a segundo plano.
+- Dentro del armario no se veían los botones táctiles (**USAR**, **AIRE**, **LUZ**) para salir del escondite.
+- Las **marcas de altura** del marco de la puerta apenas se distinguían del papel pintado. Ahora están en una tabla clara, con trazos y fechas bien marcados.
+
 ## [1.0.3] — 2026-11-12
 
 ### Añadido
