@@ -1,0 +1,60 @@
+name: Informar de un error
+description: Algo no funciona como debería.
+title: "[Error] "
+labels: ["error"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por ayudar a mejorar **La Hora Muerta**. Cuantos más detalles, antes se podrá arreglar.
+  - type: input
+    id: version
+    attributes:
+      label: Versión del juego
+      description: Aparece en el nombre del archivo descargado o en Releases.
+      placeholder: "1.0.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: plataforma
+    attributes:
+      label: Plataforma
+      options:
+        - Android
+        - Windows
+    validations:
+      required: true
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo
+      description: Modelo del teléfono y versión de Android, o tarjeta gráfica y versión de Windows.
+      placeholder: "Samsung Galaxy A54, Android 14"
+  - type: dropdown
+    id: dificultad
+    attributes:
+      label: Dificultad
+      options:
+        - Fácil
+        - Normal
+        - Difícil
+  - type: textarea
+    id: que_paso
+    attributes:
+      label: Qué ha pasado
+      description: Qué estabas haciendo, qué esperabas que ocurriera y qué ocurrió.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Cómo repetirlo
+      placeholder: |
+        1. Ir al sótano con el generador encendido
+        2. Abrir la puerta del taller
+        3. ...
+  - type: textarea
+    id: capturas
+    attributes:
+      label: Capturas o vídeo
+      description: Arrastra aquí imágenes o vídeos si los tienes.

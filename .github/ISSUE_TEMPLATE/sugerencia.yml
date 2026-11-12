@@ -1,0 +1,12 @@
+name: Sugerencia
+description: Una idea para mejorar el juego.
+title: "[Idea] "
+labels: ["sugerencia"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Tu idea
+      description: Qué te gustaría ver en el juego y por qué.
+    validations:
+      required: true
