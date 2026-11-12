@@ -8,6 +8,7 @@ Todo lo que necesitas para sobrevivir a la casa, **sin destripar la historia ni 
 - [El pánico](#el-pánico)
 - [La Sombra](#la-sombra)
 - [Esconderse](#esconderse)
+- [Huir y moverse por la casa](#huir-y-moverse-por-la-casa)
 - [Explorar la casa](#explorar-la-casa)
 - [Objetivos y capítulos](#objetivos-y-capítulos)
 - [Notas, cartas y cintas](#notas-cartas-y-cintas)
@@ -36,6 +37,7 @@ Todo lo que necesitas para sobrevivir a la casa, **sin destripar la historia ni 
 | Encender o apagar la linterna | `F` | **LUZ** |
 | Cambiar la pila | `R` | **PILA** |
 | Contener la respiración (escondida) | Mantener `Espacio` | Mantener **AIRE** |
+| Lanzar una botella | `G` | **LANZAR** |
 | Salir del escondite | `E` | **USAR** |
 | Inventario (objetos, notas, objetivos) | `Tab` o `I` | **INV** |
 | Mapa | `M` | **MAPA** |
@@ -48,7 +50,7 @@ Los botones táctiles aparecen solo cuando tiene sentido usarlos: **LUZ** y **PI
 - Gasta pila mientras está encendida. La barra **LINTERNA** de la esquina inferior izquierda muestra cuánta queda.
 - Con poca pila, o cuando estás muy asustada, **parpadea**. También falla cuando algo se acerca.
 - Las pilas **escasean**. Unas pocas están a la vista; el resto, guardadas en cajones, armarios y baúles, y cambian de sitio en cada partida.
-- Enfocar a la Sombra con la linterna durante un momento la hace retroceder... por un tiempo.
+- Enfocar a la Sombra con la linterna la frena y, si aguantas el tiempo suficiente, la hace retroceder... pero **la pila se gasta mucho más rápido** mientras lo haces. Cuando está enfurecida, la luz ya no la deshace.
 
 ## El pánico
 
@@ -64,7 +66,7 @@ Si llega al máximo, **te desmayas**. Despiertas en un lugar seguro, sin perder 
 - **Atraviesa paredes y suelos.** Cerrar una puerta no la detiene.
 - **Oye.** Correr, abrir puertas y cajones o soltar el aire de golpe la atraen.
 - **Se mueve más despacio mientras la miras.** Si le das la espalda, acelera.
-- **La luz directa la deshace**, pero vuelve.
+- **La luz directa la frena**, y mantenida un buen rato la deshace (pero vuelve). Esconderse es más seguro.
 - Si te alcanza, el susto te sube mucho el pánico. Recuperas el control enseguida.
 
 ## Esconderse
@@ -73,8 +75,18 @@ Puedes meterte en un **armario** (abre antes sus puertas) o **debajo de una cama
 
 - **Apaga la linterna.** La luz te delata.
 - Si la Sombra se acerca, **contén la respiración** (mantén `Espacio` o **AIRE**). Mientras aguantas no te oye, pero el pánico sube más rápido.
-- Si respiras con ella pegada, te encuentra. Si aguantas, se cansa y se va.
+- **Mira por la rendija:** dentro del armario ves entre las puertas; debajo de la cama, por debajo del somier. Tus ojos se acostumbran a la oscuridad poco a poco.
+- La Sombra se planta **delante del escondite** a buscarte. Si respiras entonces, te encuentra. Si aguantas, se va más lejos, tarda más en volver y tu pánico baja.
 - Al soltar el aire después de aguantarlo, se oye una bocanada que puede volver a atraerla.
+
+## Huir y moverse por la casa
+
+| Recurso | Cómo ayuda |
+|---|---|
+| **Puertas** | Atraviesa paredes, pero una puerta cerrada la entretiene unos segundos mientras la aporrea. Ciérralas a tu paso. |
+| **Botellas** | Lánzalas lejos (`G` / **LANZAR**). Donde se rompen, el ruido la atrae y busca allí. |
+| **Cerillas y candelabros** | En las zonas sin luz hay candelabros. Con una cerilla, la estancia queda iluminada dos minutos y la Sombra no entra. Cuando las velas tiemblan, se están apagando. |
+| **Atajos** | Una trampilla une la cocina con la bodega y una escalera plegable une la sala con el trastero. Se abren desde un lado; después sirven en los dos sentidos y, al usarlos, la Sombra pierde tu rastro. |
 
 ## Explorar la casa
 
@@ -117,11 +129,11 @@ Hay **tres finales**. Cuál ves depende de **cuánto descubras** de la historia 
 
 ## Consejos
 
-1. **Ahorra pila.** Apaga la linterna en las habitaciones con luz.
+1. **Ahorra pila.** Apaga la linterna en las habitaciones con luz y no la gastes peleando con la Sombra.
 2. **No corras sin necesidad.** Hace ruido, y la Sombra te oye.
 3. **Abre los muebles.** Ahí están casi todas las pilas y los calmantes.
 4. **Lee con atención.** Los códigos y el orden de las cosas están en los textos.
-5. **Si se acerca, ilumínala o escóndete.** Huir a ciegas por un pasillo oscuro rara vez funciona.
+5. **Si se acerca, escóndete.** Cierra puertas a tu paso, lanza una botella lejos o refúgiate junto a un candelabro.
 6. **Las habitaciones con luz son refugios.** Úsalas para que baje el pánico.
 
 ---

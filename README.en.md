@@ -48,7 +48,8 @@ Step-by-step instructions (in Spanish): [**installation guide**](docs/INSTALACIO
 - **A three-floor house:** ground floor, upper floor and cellar. Areas stay locked until you have done what's needed to enter.
 - **Puzzles that come from the story.** Codes are deduced from what you read and some change every game, so copying the solution won't work.
 - **The flashlight and panic.** Darkness gets to you: heartbeat, breathing, narrowing vision. Batteries are scarce and placed at random every game.
-- **The Shadow.** It walks through walls, hears you when you run or open drawers and flees from direct light. You can hide in wardrobes or under beds and hold your breath.
+- **The Shadow.** It walks through walls, hears you when you run or open drawers, and light only slows it down. Hide in wardrobes or under beds, watch through the gap and hold your breath when it stops right in front of you.
+- **Ways to escape:** close doors to hold it back, throw bottles to distract it, light candelabra that make safe havens and find shortcuts between floors.
 - **Furniture that opens:** drawers, wardrobes, cupboards and chests, with whatever they keep inside.
 - **Scares and hallucinations** throughout the game, and a final escape.
 - **Three endings**, depending on what you discover and how you survive.
@@ -65,6 +66,7 @@ Step-by-step instructions (in Spanish): [**installation guide**](docs/INSTALACIO
 | Use, pick up, open | `E` or click | **USE** |
 | Flashlight / replace battery | `F` / `R` | **LIGHT** / **BATT** |
 | Hold your breath (while hiding) | `Space` | **BREATH** |
+| Throw a bottle | `G` | **THROW** |
 | Inventory / map | `Tab` / `M` | **INV** / **MAP** |
 | Pause | `Esc` | **II** |
 

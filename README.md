@@ -48,7 +48,8 @@ Cómo instalarlo paso a paso: [**guía de instalación**](docs/INSTALACION.md).
 - **Una casa de tres plantas:** planta baja, planta alta y sótano. Las zonas siguen cerradas hasta que cumples lo necesario para entrar.
 - **Puzzles que salen de la historia.** Los códigos se deducen de lo que lees y algunos cambian en cada partida, así que no sirve copiar la solución.
 - **La linterna y el pánico.** La oscuridad te altera: latido, respiración, visión que se cierra. Las pilas escasean y se reparten al azar en cada partida.
-- **La Sombra.** Atraviesa paredes, te oye cuando corres o abres cajones y huye de la luz directa. Puedes esconderte en armarios o debajo de las camas y contener la respiración.
+- **La Sombra.** Atraviesa paredes, te oye cuando corres o abres cajones y la luz solo la frena. Escóndete en armarios o bajo las camas, mira por la rendija y contén la respiración cuando se plante delante.
+- **Formas de huir:** cierra puertas para retenerla, lanza botellas para distraerla, enciende candelabros que crean refugios de luz y descubre atajos entre plantas.
 - **Muebles que se abren:** cajones, armarios, alacenas y baúles, con lo que guarden dentro.
 - **Sustos y alucinaciones** a lo largo de toda la partida, y una huida final.
 - **Tres finales**, según lo que descubras y cómo sobrevivas.
@@ -65,6 +66,7 @@ Cómo instalarlo paso a paso: [**guía de instalación**](docs/INSTALACION.md).
 | Usar, recoger, abrir | `E` o clic | **USAR** |
 | Linterna / cambiar pila | `F` / `R` | **LUZ** / **PILA** |
 | Contener la respiración (escondida) | `Espacio` | **AIRE** |
+| Lanzar una botella | `G` | **LANZAR** |
 | Inventario / mapa | `Tab` / `M` | **INV** / **MAPA** |
 | Pausa | `Esc` | **II** |
 

@@ -2,6 +2,25 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Las versiones siguen [Versionado Semántico](https://semver.org/lang/es/).
 
+## [1.0.3] — 2026-11-12
+
+### Añadido
+- **Formas de huir y de moverse por la casa:**
+  - Cerrar una puerta entre tú y la Sombra la retiene unos segundos mientras la aporrea.
+  - **Botellas** que se lanzan (`G` / **LANZAR**): el ruido del cristal la atrae lejos de ti.
+  - **Cerillas y candelabros**: siete candelabros en las zonas oscuras crean refugios de luz durante dos minutos.
+  - **Atajos**: trampilla cocina ↔ bodega y escalera plegable sala ↔ trastero. Se abren desde un lado y, al usarlos, la Sombra pierde tu rastro.
+- **Ver por la rendija**: dentro del armario se mira entre las puertas entornadas; debajo de la cama, por debajo del somier. Los ojos se acostumbran a la oscuridad mientras estás escondida.
+
+### Cambiado
+- **Esconderse es la defensa principal.** La linterna tarda más en ahuyentar a la Sombra y gasta pila mientras la enfocas; enfurecida, la luz ya no la deshace.
+- La Sombra se planta delante del escondite para buscarte. Si aguantas, se va más lejos y durante más tiempo, y el pánico baja.
+- Aviso la primera vez que te caza: dónde esconderse.
+
+### Corregido
+- La zona para abrir encimeras y escritorios tapaba a veces lo que había encima.
+- La zona para esconderse bajo la cama y el banco del taller tapaban otros objetos.
+
 ## [1.0.2] — 2026-11-12
 
 ### Añadido
@@ -44,5 +63,6 @@ Primera versión, de prueba privada (no publicada en Releases; la 1.0.1 la susti
 - Controles para teclado y ratón, y para pantalla táctil.
 - Versiones para Android (APK firmado) y Windows.
 
+[1.0.3]: https://github.com/AndyCG03/la-hora-muerta/releases/tag/v1.0.3
 [1.0.2]: https://github.com/AndyCG03/la-hora-muerta/releases/tag/v1.0.2
 [1.0.1]: https://github.com/AndyCG03/la-hora-muerta/releases/tag/v1.0.1
