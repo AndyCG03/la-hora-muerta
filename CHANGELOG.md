@@ -2,6 +2,11 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Las versiones siguen [Versionado Semántico](https://semver.org/lang/es/).
 
+## [1.0.6] — 2026-11-12
+
+### Corregido
+- La partida se quedaba en «Cargando…» en algunos móviles (por ejemplo, Samsung Galaxy S22). La pantalla de carga ya no carga cien archivos a la vez en paralelo: los carga uno a uno y no puede quedarse bloqueada.
+
 ## [1.0.5] — 2026-11-12
 
 ### Añadido
