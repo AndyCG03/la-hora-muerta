@@ -52,6 +52,7 @@ Step-by-step instructions (in Spanish): [**installation guide**](docs/INSTALACIO
 - **Ways to escape:** close doors to hold it back, throw bottles to distract it, light candelabra that make safe havens and find shortcuts between floors.
 - **Furniture that opens:** drawers, wardrobes, cupboards and chests, with whatever they keep inside.
 - **Scares and hallucinations** throughout the game, and a final escape.
+- **Lucía, at last.** Finding her inside the house opens the last chapter.
 - **Three endings**, depending on what you discover and how you survive.
 - **Lucía's hand-drawn map**, which fills in as you explore.
 - **Three difficulty levels.** Easy is meant for enjoying the story.

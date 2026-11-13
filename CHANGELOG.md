@@ -2,6 +2,23 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/). Las versiones siguen [Versionado Semántico](https://semver.org/lang/es/).
 
+## [1.0.5] — 2026-11-12
+
+### Añadido
+- **La llegada:** la partida empieza fuera, de noche, junto al coche de Elena. Patio con verja de hierro, árboles, farolas, porche con escalera y la fachada de la casa con su tejado. Se sube al porche, se abre la puerta y se entra andando; la puerta se cierra sola a la espalda.
+- **Lucía aparece en la casa.** Tras el ritual, el reloj de la sala pierde su péndulo y una caja de música empieza a sonar arriba. En el cuarto de las niñas está Lucía, parada en las tres y cuarto y abrazada al péndulo.
+- **Nuevo puzzle: la nana de la abuela.** La letra está en el cuarto de costura y su orden cambia en cada partida. Tocarla en la caja de música hace que Lucía suelte el péndulo.
+- **La Sombra enfurecida:** a partir del Regulador cambia de forma (más alta, con garras, ojos y boca rojos) y de voz. Furiosa, la linterna ya no la asusta: solo sirve correr, esconderse o lanzarle botellas.
+- **Botellas contra la Sombra:** si le aciertas, chilla, retrocede y se va, aunque esté atravesando una pared.
+- **Cinco sustos nuevos:** arañazos dentro de la pared, una niña que tararea, respiración en la nuca, carreras en otra planta y ojos rojos en la oscuridad.
+- Ventanas en la fachada, vistas también desde dentro.
+
+### Cambiado
+- Mientras atraviesa una pared, la Sombra se vuelve humo en vez de quedarse cortada.
+
+### Corregido
+- La puerta del sótano tapaba el paso al abrirse: ahora se abre contra la pared.
+
 ## [1.0.4] — 2026-11-12
 
 ### Corregido

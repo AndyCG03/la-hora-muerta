@@ -50,7 +50,7 @@ Los botones táctiles aparecen solo cuando tiene sentido usarlos: **LUZ** y **PI
 - Gasta pila mientras está encendida. La barra **LINTERNA** de la esquina inferior izquierda muestra cuánta queda.
 - Con poca pila, o cuando estás muy asustada, **parpadea**. También falla cuando algo se acerca.
 - Las pilas **escasean**. Unas pocas están a la vista; el resto, guardadas en cajones, armarios y baúles, y cambian de sitio en cada partida.
-- Enfocar a la Sombra con la linterna la frena y, si aguantas el tiempo suficiente, la hace retroceder... pero **la pila se gasta mucho más rápido** mientras lo haces. Cuando está enfurecida, la luz ya no la deshace.
+- Enfocar a la Sombra con la linterna la frena y, si aguantas el tiempo suficiente, la hace retroceder... pero **la pila se gasta mucho más rápido** mientras lo haces. **Cuando está furiosa, la linterna ya no le hace nada.**
 
 ## El pánico
 
@@ -67,6 +67,7 @@ Si llega al máximo, **te desmayas**. Despiertas en un lugar seguro, sin perder 
 - **Oye.** Correr, abrir puertas y cajones o soltar el aire de golpe la atraen.
 - **Se mueve más despacio mientras la miras.** Si le das la espalda, acelera.
 - **La luz directa la frena**, y mantenida un buen rato la deshace (pero vuelve). Esconderse es más seguro.
+- **Avanzada la historia se enfurece:** cambia de forma, con garras y ojos rojos, y la linterna deja de asustarla. Entonces solo sirve **correr, esconderse o lanzarle botellas**.
 - Si te alcanza, el susto te sube mucho el pánico. Recuperas el control enseguida.
 
 ## Esconderse
@@ -84,7 +85,7 @@ Puedes meterte en un **armario** (abre antes sus puertas) o **debajo de una cama
 | Recurso | Cómo ayuda |
 |---|---|
 | **Puertas** | Atraviesa paredes, pero una puerta cerrada la entretiene unos segundos mientras la aporrea. Ciérralas a tu paso. |
-| **Botellas** | Lánzalas lejos (`G` / **LANZAR**). Donde se rompen, el ruido la atrae y busca allí. |
+| **Botellas** | Lánzalas lejos (`G` / **LANZAR**): donde se rompen, el ruido la atrae y busca allí. Si le **aciertas a ella**, retrocede y se va, aunque esté atravesando una pared. |
 | **Cerillas y candelabros** | En las zonas sin luz hay candelabros. Con una cerilla, la estancia queda iluminada dos minutos y la Sombra no entra. Cuando las velas tiemblan, se están apagando. |
 | **Atajos** | Una trampilla une la cocina con la bodega y una escalera plegable une la sala con el trastero. Se abren desde un lado; después sirven en los dos sentidos y, al usarlos, la Sombra pierde tu rastro. |
 
@@ -145,7 +146,7 @@ Hay **tres finales**. Cuál ves depende de **cuánto descubras** de la historia 
 <details>
 <summary><b>Capítulo I · La llegada</b></summary>
 
-Busca algo con qué alumbrar en el recibidor, cerca de la ventana. Lee la nota que hay junto a ello.
+Sube la escalera del porche y abre la puerta. Dentro, busca algo con qué alumbrar en el recibidor, cerca de la ventana. Lee la nota que hay junto a ello.
 </details>
 
 <details>
@@ -175,5 +176,5 @@ El orden de los recuerdos sobre el altar es el orden de la vida de Inés. Ella m
 <details>
 <summary><b>Capítulo VI · Las tres y dieciséis</b></summary>
 
-Cuando el reloj vuelva a andar, no te pares y no mires atrás.
+Al reloj le falta algo. Sigue la música: la caja de las niñas se toca en el orden de la nana de la abuela, que está escrita en su cuarto de costura. Cuando el reloj vuelva a andar, no te pares y no mires atrás.
 </details>

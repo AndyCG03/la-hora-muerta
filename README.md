@@ -52,6 +52,7 @@ Cómo instalarlo paso a paso: [**guía de instalación**](docs/INSTALACION.md).
 - **Formas de huir:** cierra puertas para retenerla, lanza botellas para distraerla, enciende candelabros que crean refugios de luz y descubre atajos entre plantas.
 - **Muebles que se abren:** cajones, armarios, alacenas y baúles, con lo que guarden dentro.
 - **Sustos y alucinaciones** a lo largo de toda la partida, y una huida final.
+- **Lucía, por fin.** Encontrarla dentro de la casa abre el último capítulo.
 - **Tres finales**, según lo que descubras y cómo sobrevivas.
 - **Mapa dibujado a mano por Lucía**, que se completa a medida que exploras.
 - **Tres dificultades.** Fácil está pensada para disfrutar de la historia.
